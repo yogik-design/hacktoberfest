@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [yogik-design](https://github.com/yogik-design)
+- Place: Yogi K, India
+- Bio: Full stack Azure Developer
+- Github: [yogik-design](https://github.com/yogik-design)
